@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener-api",
+  "version": "1.0.0",
+  "description": "URL shortener api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m90s/url-shortener-api.git"
+  },
+  "author": "malsokait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m90s/url-shortener-api/issues"
+  },
+  "homepage": "https://github.com/m90s/url-shortener-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10",
+    "randomstring": "^1.1.5"
+  }
+}
